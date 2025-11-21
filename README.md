@@ -32,11 +32,6 @@ Optimiser le processus de commande et d’encaissement en restaurant grâce à u
 
 ---
 
-## Résultat
-L’application est actuellement utilisée quotidiennement par le restaurant **SUSHI FUJI**, permettant une gestion rapide et fiable des commandes et des tickets clients.
-
----
-
 ## Tests
 
 Toutes les fonctionnalités ont été testées avant la mise en production :
@@ -46,6 +41,11 @@ Toutes les fonctionnalités ont été testées avant la mise en production :
  - Gestion des produits et catégories
  - Paramètres du restaurant
  - Fonctionnement sur smartphone
+
+---
+
+## Résultat
+L’application est actuellement utilisée quotidiennement par le restaurant **SUSHI FUJI**, permettant une gestion rapide et fiable des commandes et des tickets clients.
 
 ---
 
