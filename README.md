@@ -38,8 +38,19 @@ L’application est actuellement utilisée quotidiennement par le restaurant **S
 
 ---
 
-## Captures d’écran
-*(Ajouter ici des photos ou GIFs montrant l’application sur le smartphone)*  
+## Tests
+
+Toutes les fonctionnalités ont été testées avant la mise en production :
+
+Saisie et gestion des commandes par table
+
+Impression automatique des tickets
+
+Gestion des produits et catégories
+
+Paramètres du restaurant
+
+Fonctionnement sur smartphone
 
 ---
 
