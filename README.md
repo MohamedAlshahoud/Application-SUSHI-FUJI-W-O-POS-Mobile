@@ -1,6 +1,6 @@
 # Application SUSHI FUJI – W&O POS Mobile
 
-## Résumé
+## ✨ Présentation
 **W&O POS** est une application mobile Android utilisée par le restaurant **SUSHI FUJI** pour gérer les commandes des clients, organiser les tables, et imprimer automatiquement les tickets via l’imprimante Bluetooth **Jolimark TP510**. L’application est rapide, fiable et adaptée à un usage quotidien intensif en restauration, avec une interface simple et intuitive pour le personnel.
 
 ## Objectifs
