@@ -54,5 +54,16 @@ Ce projet illustre le déploiement et l’optimisation d’une application POS m
 
 ---
 
-## Licence
-[À compléter, par ex. MIT]
+## 📫 Me contacter
+Vous pouvez me joindre directement :
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
+- [Portfolio](https://mohamedalshahoud.com/)
+- [Email](alshahoudmohamed95@gmail.com)
+
+
+## Auteur
+- **Mohamed Alshahoud** - **Développeur Web Full Stack**
+
+##
+Merci pour votre visite et n'hésitez pas à laisser un ⭐️ si vous appréciez mon travail !
