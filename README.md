@@ -28,8 +28,7 @@ Optimiser le processus de commande et d’encaissement en restaurant grâce à u
 2. Ajouter les informations du restaurant (adresse, téléphone, messages personnalisés).  
 3. Créer et organiser le menu (catégories, articles, prix).  
 4. Organiser les tables pour la prise de commandes.  
-5. Connecter l’imprimante Bluetooth (Jolimark TP510) et configurer les tickets.  
-6. Tester les commandes et l’impression automatique pour s’assurer du bon fonctionnement.  
+5. Connecter l’imprimante Bluetooth (Jolimark TP510) et configurer les tickets.    
 
 ---
 
