@@ -5,7 +5,7 @@
 
 ## Objectifs
 **Optimiser** le processus de **commande** et **d’encaissement en restaurant** grâce à une application mobile complète, permettant :  
-- La prise de commandes client par table.  
+- La prise de **commandes client** par table.  
 - L’impression automatique des tickets après chaque commande.  
 - La gestion et l’organisation des menus (catégories, articles, prix).  
 - La personnalisation des tickets avec informations du restaurant, taxes et messages.  
