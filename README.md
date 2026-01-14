@@ -9,7 +9,7 @@
 - L’impression **automatique des tickets** après chaque commande.  
 - La gestion et l’organisation **des menus** (catégories, articles, prix).  
 - La personnalisation **des tickets** avec informations du restaurant, taxes et messages.  
-- La compatibilité avec l’imprimante Bluetooth existante (ESC-POS, Jolimark TP510).  
+- La compatibilité avec **l’imprimante Bluetooth** existante (ESC-POS, Jolimark TP510).  
 
 ---
 
