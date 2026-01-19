@@ -16,7 +16,7 @@
 ## Fonctionnalités principales
 - **Prise de commandes par table**.  
 - **Impression automatique des tickets via l’imprimante Bluetooth**.  
-- Gestion du menu : catégories et articles avec prix.  
+- **Gestion du menu : catégories et articles avec prix**.  
 - Organisation des tables et suivi des commandes.  
 - Personnalisation des tickets : logo, messages, taxes et adresses.  
 - Paramètres du restaurant : adresse, téléphone et messages personnalisés.  
