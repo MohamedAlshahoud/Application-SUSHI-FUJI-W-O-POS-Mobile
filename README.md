@@ -27,7 +27,7 @@
 1. Installer l’application **W&O POS** depuis le Play Store sur **le smartphone du restaurant**.  
 2. Ajouter **les informations du restaurant** (**nom**, **adresse**, **téléphone**, **messages personnalisés**).  
 3. Créer et organiser **le menu** (**catégories**, **articles**, **prix**).  
-4. Organiser les tables pour la prise de commandes.  
+4. Organiser **les tables** pour la prise de commandes.  
 5. Connecter l’imprimante Bluetooth (Jolimark TP510) et configurer les tickets.    
 
 ---
