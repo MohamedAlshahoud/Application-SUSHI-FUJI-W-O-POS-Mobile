@@ -34,7 +34,7 @@
 
 ## Tests
 
-Toutes **les fonctionnalités** ont été testées avant la mise en production :
+Toutes **les fonctionnalités** ont été **testées** avant la mise en production :
  
  - Saisie et gestion des commandes par table
  - Impression automatique des tickets
