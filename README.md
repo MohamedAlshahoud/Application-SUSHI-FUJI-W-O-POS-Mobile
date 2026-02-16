@@ -38,7 +38,7 @@ Toutes **les fonctionnalités** ont été **testées** avant la mise en producti
  
  - **Saisie et gestion des commandes par table**
  - **Impression automatique des tickets**
- - Gestion des produits et catégories
+ - **Gestion des produits et catégories**
  - Paramètres du restaurant
  - Fonctionnement sur smartphone
 
