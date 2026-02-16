@@ -40,7 +40,7 @@ Toutes **les fonctionnalités** ont été **testées** avant la mise en producti
  - **Impression automatique des tickets**
  - **Gestion des produits et catégories**
  - **Paramètres du restaurant**
- - Fonctionnement sur smartphone
+ - **Fonctionnement sur smartphone**
 
 ---
 
