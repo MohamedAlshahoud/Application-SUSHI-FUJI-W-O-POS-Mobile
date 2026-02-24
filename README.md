@@ -50,7 +50,7 @@ L’application est actuellement **utilisée** quotidiennement par le restaurant
 ---
 
 ## Contribution
-Ce **projet** illustre le déploiement et l’optimisation d’une **application POS mobile** en conditions réelles. Les suggestions pour améliorer la documentation sont les bienvenues.
+Ce **projet** illustre le déploiement et l’optimisation d’une **application POS mobile** en conditions réelles. Les suggestions pour **améliorer** la documentation sont les bienvenues.
 
 ---
 
