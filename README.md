@@ -55,7 +55,7 @@ Ce **projet** illustre le déploiement et l’optimisation d’une **application
 ---
 
 ## 📫 Me contacter
-Vous pouvez me joindre directement :
+Vous pouvez **me joindre** directement :
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-alshahoud/)
 - [Portfolio](https://mohamedalshahoud.com/)
