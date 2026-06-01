@@ -45,7 +45,7 @@ Toutes **les fonctionnalités** ont été **testées** avant la mise en producti
 ---
 
 ## Résultat
-L’application est actuellement **utilisée** quotidiennement par le restaurant **SUSHI FUJI**, permettant **une gestion** rapide et fiable **des commandes** et **des tickets clients**.
+L’application est actuellement **utilisée** quotidiennement par le restaurant **SUSHI**, permettant **une gestion** rapide et fiable **des commandes** et **des tickets clients**.
 
 ---
 
